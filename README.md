@@ -6,7 +6,7 @@ Mobile-приложение: для курьеров доставляющих с
 
 
 <ul>
-<li>Разработал <a href="https://drive.google.com/file/d/1NMbik5FsO--XqG9wTIqbf5nsUDU7VEbx/view" rel="nofollow">mindmap</a>  для логики и верстки формы заказа,для того,чтобы декомпозировать требования,визуализировать и избавиться от серых зон</li>
+<li>Разработал <a href="https://drive.google.com/file/d/1NMbik5FsO--XqG9wTIqbf5nsUDU7VEbx/view" rel="nofollow">mindmap</a>  для логики и верстки формы заказа,для того,чтобы декомпозировать требования, визуализировать и избавиться от серых зон</li>
 <li>Составил <a href="https://docs.google.com/spreadsheets/d/1d2568MpT6XxmFXSNBnBosSlSK1cEIOmfoB-6qm8ic3s/edit#gid=1540465171" rel="nofollow">чек-лист</a> на валидацию полей формы бронирования</li>
 <li>Составил <a href="https://docs.google.com/spreadsheets/d/1d2568MpT6XxmFXSNBnBosSlSK1cEIOmfoB-6qm8ic3s/edit#gid=943703744">чек-лист</a> функциональности экрана «Статус заказа»</li>  
 <li>Написал <a href="https://docs.google.com/spreadsheets/d/1d2568MpT6XxmFXSNBnBosSlSK1cEIOmfoB-6qm8ic3s/edit#gid=424948590">тест-кейсы</a> на логику работы пуш-уведомлений в Android-приложении, с помощью Android Studio</li>
